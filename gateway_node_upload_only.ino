@@ -7,8 +7,8 @@
 // ==============================
 // CONFIGURATION
 // ==============================
-const char* ssid     = "realme GT 2";
-const char* password = "josh1234";
+const char* ssid     = "*********";
+const char* password = "********";
 
 
 // LoRa Pin Definitions (ESP32)
